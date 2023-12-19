@@ -1,0 +1,1 @@
+In this project, I have proved some important results on Carry Value Transformation (CVT) and Bitwise exclusive OR (XOR). And my project can be used in pattern recognition and data interpretation, helping many statisticians, scientists and companies to work for further development of their own self and the world, by recognizing their benifits and loss and working on them.
